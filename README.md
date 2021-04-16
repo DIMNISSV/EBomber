@@ -10,6 +10,8 @@
 
 `cd D-EBomb`
 
+`pip install requerments.txt`
+
 
 `py` / `python3` `EBomb.py -PARAM`
 
@@ -23,3 +25,6 @@
 
 # Пример: 
 ## py EBomb.py --email mail@example.com --thr 1000
+
+# Илм
+### Запускаете без параметров и вводите почту и кол-во потоков в соответствующие поля.
